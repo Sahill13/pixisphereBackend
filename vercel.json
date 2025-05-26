@@ -9,7 +9,16 @@
   "routes": [
     {
       "src": "/(.*)",
+<<<<<<< HEAD
       "dest": "/backend/server.js"
     }
   ]
+=======
+      "dest": "server.js"
+    }
+  ],
+  "env": {
+    "NODE_ENV": "production"
+  }
+>>>>>>> db406745fcb5684fcba6508c782b725eeaf4cd9c
 }

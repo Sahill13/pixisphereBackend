@@ -163,4 +163,17 @@ Mongoose ODM
 
 JWT authentication
 
+<<<<<<< HEAD
 All open-source libraries used in this project
+=======
+All open-source libraries used in this project
+## 🧪 Postman API Testing
+
+A Postman collection is available in the `/postman` folder for testing all API endpoints.
+
+### Import Instructions:
+1. Open Postman.
+2. Click **Import**.
+3. Select `Pixisphere-API.postman_collection.json` from the `/postman` directory.
+4. Create an environment with a `baseUrl` variable set to your API URL (e.g., `http://localhost:5000`).
+>>>>>>> db406745fcb5684fcba6508c782b725eeaf4cd9c
